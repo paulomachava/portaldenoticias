@@ -17,5 +17,14 @@
             );
             
         }
+
+        figcaption{
+            position: absolute;
+            bottom: 0;
+            padding: 20px;
+         h2{
+            margin-top: 8px;
+         }
+        }
     }
 }
