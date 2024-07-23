@@ -34,7 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Neste projeto desenvolvo a homepage de um portal de notícias sobre tecnologia para ser visualizado em um desktop.<br/>
-Este é um dos projetos desenvolvidos em aula na formação Full-Stack  na Rocketseat
+Este projecto foi desenvolvido com o objectivo de aplicar os conhecimentos do GRID aprendendido durante as aulas na formação Full-Stack  na Rocketseat
+
 
 
 
